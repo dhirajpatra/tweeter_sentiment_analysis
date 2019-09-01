@@ -1,5 +1,5 @@
-# twiteer_sentiment_analysis
-This is a small program to do sentiment analysis for any tweeter key word. You need twiteer api account.
+# twitter_sentiment_analysis
+This is a small program to do sentiment analysis for any tweeter key word. You need twitter api account.
 
 ### Knowledge require
 You should need Python and basic ML. Rest you can practice with this program.
@@ -19,3 +19,4 @@ or
 Run from your IDE eg. spyder or install Anacoda Navigator from https://anaconda.org/ or can use Jupyter Notebook
 
 You can clone and update as per your need. Thank you.
+
